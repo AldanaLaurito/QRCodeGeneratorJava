@@ -1,5 +1,5 @@
 
 target/classes/App.class
 target/classes/qrcode/GenerateQR.class
-target/classes/window/Window.class
+target/classes/windowQrCode/Window.class
 target/test-classes/QrCodeTest.class
